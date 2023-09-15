@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 there was text(!)
-=======
-there was text(?)
->>>>>>> b_conflict
 it's me, Mario!
